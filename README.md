@@ -1,24 +1,19 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/load.svg?longCache=True)](https://pypi.org/project/load/)
-[![](https://img.shields.io/pypi/v/load.svg?maxAge=3600)](https://pypi.org/project/load/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/load.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/load.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/load.svg?maxAge=3600)](https://pypi.org/project/load/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/load.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/load.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install load
 ```
 
 #### Features
 +   python 2/3 compatible
-
-#### Functions
-function|`__doc__`
--|-
-`load.load(name, path)` |Load and initialize a module implemented as a Python source file and return its module object
 
 #### Examples
 ```python
@@ -28,5 +23,5 @@ function|`__doc__`
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
